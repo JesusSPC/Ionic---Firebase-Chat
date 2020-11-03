@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firesimplechat-e2987": {
+      "hosting": {
+        "app": [
+          "firesimplechat-e2987"
+        ]
+      }
+    }
+  }
+}
